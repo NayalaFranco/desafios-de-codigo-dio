@@ -42,6 +42,8 @@ public class Program
         Console.WriteLine(MajorityElement(num));
 
     }
+
+    //Minha nota: buscar por "Algoritmo de voto majoritário Boyer-Moore"
     public static int MajorityElement(int[] nums)
     {
         int major = nums[0];
